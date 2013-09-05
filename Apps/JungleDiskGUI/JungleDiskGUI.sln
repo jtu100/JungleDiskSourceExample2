@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual Studio 2005
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JungleDiskGUI", "JungleDiskGUI.csproj", "{0CCA9B9C-4BCA-4486-B2C6-FA5496FC170F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JungleDiskNET", "..\..\ClassLibraries\JungleDiskNET\JungleDiskNET.csproj", "{5EF93AFD-FADE-4906-A95D-EEE08E9A36F6}"
